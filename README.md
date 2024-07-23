@@ -22,10 +22,13 @@ Our analysis aims to explore the advanced statistics of NBA players in the 2019 
 ### Exploratory Data Analysis (EDA)
 EDA helps us visualize the data and how it varies with other instances, visualize the correlation, and the distributions of the features with the given instances.
 
-- **Figure 1:** ![image](https://github.com/user-attachments/assets/ccf0d679-d1b8-42c3-b7aa-6a8c8875e4a4)
-Defence up position vs. Advanced AST percentage
+![image](https://github.com/user-attachments/assets/ccf0d679-d1b8-42c3-b7aa-6a8c8875e4a4)
+- **Figure 1:** Defence up position vs. Advanced AST percentage
   
+![image](https://github.com/user-attachments/assets/9f1e7bf6-acc7-421f-9632-51d5c046c5c5)
 - **Figure 2:** DREB vs. OREB percentages
+
+![image](https://github.com/user-attachments/assets/06a0e708-77a2-4929-9751-7e3bb54f8545)
 - **Figure 3:** Heatmap representing the correlation among the features
 
 ## DATA MODELLING
