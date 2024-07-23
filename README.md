@@ -37,7 +37,10 @@ The first step in any machine learning process is data cleaning, which involves 
 ### Principal Component Analysis (PCA)
 PCA is used for dimensionality reduction, retaining as much information as possible by finding a new set of orthogonal variables called principal components.
 
+![image](https://github.com/user-attachments/assets/1bb8175c-4f5b-43d6-8d24-d0e2c40a817a)
 - **Figure 4a:** Variance vs. number of components
+  
+![image](https://github.com/user-attachments/assets/7f325dcd-1de8-4556-8cff-f1218c03fbf9)
 - **Figure 4b:** Difference in variance vs. number of components
 
 ### Clustering Algorithms
@@ -45,13 +48,18 @@ PCA is used for dimensionality reduction, retaining as much information as possi
 - **Gaussian Mixture Models (GMMs):** Assumes data follows a Gaussian distribution.
 - **Density-Based Spatial Clustering of Applications with Noise (DBSCAN):** Identifies clusters based on density.
 
+![image](https://github.com/user-attachments/assets/05d87901-738c-4b53-8a3c-b2c81d0c26fe)
 - **Figure 5:** Flowchart representing the modelling of the algorithm development.
 
 ## RESULTS AND DISCUSSION
 ### Evaluation Metrics
 - **Silhouette Score:** Measures how similar an object is to its own cluster compared to other clusters. 
 
+![image](https://github.com/user-attachments/assets/6a21a2c2-957a-4e36-9baf-36d734d9395d)
 - **Figure 6:** Variation of silhouette score and the number of clusters
+
+![image](https://github.com/user-attachments/assets/8cf53580-dd89-4863-a6ba-f7c2b60f3010)
+
 - **Figure 7:** Differences in the slopes of silhouette score and the number of clusters
 
 ### Performance Analysis
@@ -63,8 +71,13 @@ PCA is used for dimensionality reduction, retaining as much information as possi
 | 2 | DBSCAN | Silhouette | 0.12 |
 | 3 | Gaussian Models | Silhouette | 0.11 |
 
+![image](https://github.com/user-attachments/assets/cb0bd04b-5319-4e80-980d-0715c3fc577e)
 - **Figure 8a:** K-means Clusters
+- 
+![image](https://github.com/user-attachments/assets/a9b10130-b9e3-467d-8b49-9f960e8e5d80)
 - **Figure 8b:** DBSCAN Clusters
+
+![image](https://github.com/user-attachments/assets/bba075e3-0a4a-4d2f-8dd3-528295946ee7)
 - **Figure 8c:** Gaussian Model Clusters
 
 ## CONCLUSION AND FUTURE WORK
